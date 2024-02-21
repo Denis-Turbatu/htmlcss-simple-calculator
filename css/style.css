@@ -1,3 +1,33 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+/* COMMON */
+ .container{
+    width: 20%;
+    margin: 70px auto 10px;
+    background-color: green;
+    /* debug */
+    height: 600px;
+} 
+
+
+/* TOP-SECTION */
+
+.top-sect-calc{
+    background-color: #D1D1D1;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+/* DISPLAY */
+
+
+
+/* BODY-SECTION */
+
